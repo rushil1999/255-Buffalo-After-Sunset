@@ -29,16 +29,15 @@ The analysis has been done to answer the following potential questions.
 
 ## Directory Tree:
 ```
-├── static 
-│   ├── css
-├── template
-│   ├── index.html
-├── Procfile
+├── clusters_data_subsets
+│   ├── Cluster_Inci_Freqs
+│   ├── Clusters
+├── Graphs
+├── Tableau Dashboard
+├── .gitignore
+├── Datasets.zip
+├── Project Notebook.ipynb
 ├── README.md
-├── app.py
-├── flight_price.ipynb
-├── flight_rf.pkl
-├── requirements.txt
 ```
 
 
